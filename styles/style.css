@@ -1,0 +1,35 @@
+
+html{text-align: center;
+	font-size: 13px;
+	font-family: 'Noto Sans JP', sans-serif;
+background-color:#FF622D;
+;
+}body {
+  width: 700px;
+  margin: 0px auto;
+  background-color: #FAF32D;
+  padding: 0 25px 25px 25px;
+  border: 10px solid red;
+}
+
+h1{text-align: center;
+	 margin: 0;
+  padding: 20px 0;
+  color: yellow;
+  text-shadow: 3px 3px 1px black; 
+	font-size: 40px;
+	;
+}
+p,a{ font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  text-shadow: 1px 1px 1px black;
+  color:#FFFFFF;
+}
+img{display: block;
+margin: 0 auto}
+}
+li{ font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
